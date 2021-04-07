@@ -1,0 +1,27 @@
+{
+  "name": "some-where-on-a-beach",
+  "displayName": "some where on a beach...",
+  "description": "🏝🍹🥥",
+  "publisher": "Blake Noll",
+  "icon": "./icon.png",
+  "keywords": [
+    "tropical",
+    "beach"
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "some where on a beach...",
+        "uiTheme": "vs-dark",
+        "path": "./themes/some-where-on-a-beach-color-theme.json"
+      }
+    ]
+  }
+}
