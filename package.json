@@ -3,7 +3,7 @@
   "displayName": "some where on a beach...",
   "description": "🏝🍹🥥",
   "publisher": "Blake Noll",
-  "icon": "./icon.png",
+  "icon": "https://github.com/blakenoll/some-where-on-a-beach/blob/be07d99867440e811c8ea9f41c140677b44b0733/icon.png",
   "keywords": [
     "tropical",
     "beach"
