@@ -3,3 +3,5 @@
 A tropical theme designed by Blake Noll.
 
 **Enjoy!**
+
+![preview](./preview.jpeg)
