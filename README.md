@@ -1,6 +1,6 @@
-# Some where on a beach 🏝🍹🥥
+# Somewhere on a beach 🏝🍹🥥
 
-A tropical theme designed by Blake Noll.
+A tropical theme built on top of the default VS code theme.
 
 **Enjoy!**
 

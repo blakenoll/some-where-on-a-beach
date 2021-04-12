@@ -1,6 +1,6 @@
 {
-  "name": "some-where-on-a-beach",
-  "displayName": "some where on a beach...",
+  "name": "somewhere-on-a-beach",
+  "displayName": "somewhere on a beach...",
   "description": "🏝🍹🥥",
   "publisher": "BlakeNoll",
   "icon": "icon.png",
@@ -19,7 +19,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "some where on a beach...",
+        "label": "somewhere on a beach...",
         "uiTheme": "vs-dark",
         "path": "./themes/some-where-on-a-beach-color-theme.json"
       }
